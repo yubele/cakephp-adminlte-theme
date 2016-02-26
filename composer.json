@@ -1,15 +1,15 @@
 {
   "name": "maiconpinto/cakephp-adminlte-theme",
-  "description": "CakePHP 3.x AdminLTE Theme.",
+  "description": "CakePHP 2.7.x AdminLTE Theme. fork https://github.com/maiconpinto/cakephp-adminlte-theme",
   "type": "cakephp-plugin",
   "keywords": ["cakephp", "templates", "plugin"],
-  "homepage": "https://github.com/maiconpinto/cakephp-adminlte-theme",
+  "homepage": "https://github.com/yubele/cakephp-adminlte-theme",
   "license": "MIT",
   "authors": [
     {
-      "name": "Maicon Pinto",
-      "email": "maiconsilva.pinto@gmail.com",
-      "homepage": "https://www.maiconpinto.com.br/",
+      "name": Yusuke Abe"
+      "email": "yusuke@newsdict.jp",
+      "homepage": "https://newsdict.jp/",
       "role": "Author"
     }
   ],
@@ -19,12 +19,12 @@
       }
   },
   "support": {
-    "issues": "https://github.com/maiconpinto/cakephp-adminlte-theme/issues",
-    "source": "https://github.com/maiconpinto/cakephp-adminlte-theme"
+    "issues": "https://github.com/yubele/cakephp-adminlte-theme/issues",
+    "source": "https://github.com/yubele/cakephp-adminlte-theme"
   },
   "require": {
     "php": ">=5.4.16",
-    "cakephp/cakephp": "~3.0"
+    "cakephp/cakephp": "~2.7"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.1"
